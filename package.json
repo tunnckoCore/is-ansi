@@ -1,6 +1,6 @@
 {
   "name": "is-ansi",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Check that given string contain ANSI color codes, without CLI",
   "repository": "tunnckoCore/is-ansi",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
