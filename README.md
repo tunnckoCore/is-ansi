@@ -26,6 +26,17 @@ isAnsi('Charlike')
 ```
 
 
+## Related
+- [has-ansi](https://github.com/sindresorhus/has-ansi): Check if a string has ANSI escape codes
+- [has-value](https://github.com/jonschlinkert/has-value): Returns true if a value exists, false if empty. Works… [more](https://github.com/jonschlinkert/has-value)
+- [is-match](https://github.com/jonschlinkert/is-match): Create a matching function from a glob pattern, regex, string,… [more](https://github.com/jonschlinkert/is-match)
+- [is-missing](https://github.com/tunnckoCore/is-missing): Check that given `name` or `user/repo` exists in npm registry… [more](https://github.com/tunnckoCore/is-missing)
+- [is-installed](https://github.com/tunnckoCore/is-installed): Checks that given package is installed on the system -… [more](https://github.com/tunnckoCore/is-installed)
+- [is-es6-generators](https://github.com/tunnckocore/is-es6-generators): Check whether a value is a `Generator` or `GeneratorFunction`. The… [more](https://github.com/tunnckocore/is-es6-generators)
+- [micromatch](https://github.com/jonschlinkert/micromatch): Glob matching for javascript/node.js. A drop-in replacement and faster… [more](https://github.com/jonschlinkert/micromatch)
+- [verb](https://github.com/assemble/verb): Documentation generator for GitHub projects. Extremely powerful, easy to use,… [more](https://github.com/assemble/verb)
+
+
 ## Contributing
 
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/tunnckoCore/is-ansi/issues/new).  
