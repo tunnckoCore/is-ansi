@@ -15,5 +15,16 @@
   "devDependencies": {
     "assertit": "^0.1.0"
   },
-  "keywords": []
+  "keywords": [
+    "ansi",
+    "check",
+    "code",
+    "codes",
+    "color",
+    "colors",
+    "contain",
+    "has",
+    "has-ansi",
+    "has-color"
+  ]
 }
